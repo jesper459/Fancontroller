@@ -1,1 +1,4 @@
-#Code comming
+//Is run once
+Setup()
+//Is run in a loop
+Loop()
