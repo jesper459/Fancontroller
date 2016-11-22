@@ -1,7 +1,7 @@
 # Fancontroller
 Gonna make a Fancrontroller with:
-Arduino Trinket Pro 5V
-Relaymodule for Arduino
+Arduino Trinket Pro 5V and Relaymodule for Arduino.
+More will come.
 
 Want it to be able to control:
 5-12Volt.
