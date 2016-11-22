@@ -13,4 +13,4 @@ Physical button for on and off.
 Physical button for voltage change (5-7-12V).
 Physical Rotary module to change speed.
 
-More will come.
+More will come...
